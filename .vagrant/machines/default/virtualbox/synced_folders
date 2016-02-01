@@ -1,1 +1,0 @@
-{"nfs":{"/var/www/html":{"guestpath":"/var/www/html","hostpath":"/C/Projects/lancrafter/api","disabled":false,"type":"nfs","map_uid":0,"map_gid":0,"nfs_udp":true,"nfs_version":3,"uuid":"2552253178","mount_options":["vers=3","udp","nolock"]}},"virtualbox":{"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Projects/lancrafter/api","disabled":false}}}
